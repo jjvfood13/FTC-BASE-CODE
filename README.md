@@ -7,5 +7,5 @@ Features Include:
 - Mecanum Drive
 - Odometry wheels computation
 - Automated Testing
-- Fake Hardware(comming soon)
+- Fake Hardware (comming soon)
 
